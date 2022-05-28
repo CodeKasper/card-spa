@@ -2,10 +2,9 @@
 <div align="center">
 Services Card Spa fully responsive, <br />responsive
 for all devices, built with HTML, CSS, and JavaScript.
- </div>
 
 <a href="https://codekasper.github.io/card-spa"><strong>➥ Live Demo</strong></a>
-
+ </div>
 <br />
 
 ### Demo Screeshots
